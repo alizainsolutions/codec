@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "696881747874",
+    "firebase_url": "https://forexanalysisapp-default-rtdb.firebaseio.com",
+    "project_id": "forexanalysisapp",
+    "storage_bucket": "forexanalysisapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696881747874:android:19f16b80435c14404704fb",
+        "android_client_info": {
+          "package_name": "com.example.codec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FpK4QjRmxsnD453RnbOdpKH2_GDGBoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
