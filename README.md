@@ -1,6 +1,6 @@
-# codec
+# Codec
 
-A new Flutter project.
+A single screen CRUD app built in Flutter.
 
 ## Getting Started
 
